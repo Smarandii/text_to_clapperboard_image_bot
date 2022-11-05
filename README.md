@@ -22,4 +22,5 @@
 4. run `python bot.py`
 5. send 5 comma separated values to your bot (BotFather gave you link to your bot at step 2)
 
-![image](https://user-images.githubusercontent.com/48328325/200103222-0cc26067-49af-405d-ae77-e1cea3d4d1a5.png)
+1. ![image](https://user-images.githubusercontent.com/48328325/200104323-185eecb5-2254-4c68-926c-71d0c51b65d9.png)
+2. ![image](https://user-images.githubusercontent.com/48328325/200104334-ab4cfd01-1011-43a6-90ba-a2168ac2d42c.png)
