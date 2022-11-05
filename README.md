@@ -3,7 +3,7 @@
 
 
 ## Telegram bot for automatic picture generation:
-- this bot can help students from @GITR to create their "movie firecracker" image
+- this bot can help students from [@GITR](https://gitr.ru/) to create their "movie clapperboard" image
 
 ## Usage:
 - send 5 comma separated words to bot
