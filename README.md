@@ -1,4 +1,4 @@
-# ChloCanon
+# clapperboard_bot
 [@gitr_canon_bot](https://t.me/gitr_canon_bot)
 
 
