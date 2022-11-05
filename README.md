@@ -21,3 +21,5 @@
 3. add token in `bot.py` in `token` variable
 4. run `python bot.py`
 5. send 5 comma separated values to your bot (BotFather gave you link to your bot at step 2)
+
+![image](https://user-images.githubusercontent.com/48328325/200103222-0cc26067-49af-405d-ae77-e1cea3d4d1a5.png)
