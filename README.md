@@ -1,5 +1,5 @@
 # clapperboard_bot
-[@gitr_canon_bot](https://t.me/gitr_canon_bot)
+[@clapperboard_bot](https://t.me/gitr_canon_bot)
 
 
 ## Telegram bot for automatic picture generation:
