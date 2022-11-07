@@ -9,11 +9,12 @@
 - send 5 comma separated words to bot
 - profit!
 
-## Run this bot localy on your computer:
+## Run this bot localy on Windows:
 1. run **cmd**
-1. change working directory to repository directory (`cd` command)
+2. download repository `git clone https://github.com/Smarandii/text_to_clapperboard_image_bot`
 
 **Pro-tip: To change drive in Windows use (D: - change drive to drive D | C: - change drive to drive C)**
+1. change working directory to repository directory `cd text_to_clapperboard_image_bot`
 1. run `python -m venv env` with **cmd** in repository directory
 1. run virtual environment "env" (`.\env\Scripts\activate` for Windows)
 1. run `pip install -r requirements.txt`
